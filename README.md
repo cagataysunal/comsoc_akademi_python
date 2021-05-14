@@ -1,3 +1,3 @@
 # comsoc_akademi_python
 
-Python eğitimi notebookları
+Python eğitimi notebookları ve kodları
