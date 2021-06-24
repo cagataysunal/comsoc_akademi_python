@@ -1,3 +1,5 @@
 # comsoc_akademi_python
 
-Python eğitimi notebookları ve kodları
+**IEEE Doğuş Üniversitesi Öğrenci Kolu** COMSOC AKADEMİ Python Eğitiminde kullanılan kodlar ve kaynakları içerir.
+
+Eğitimin kaydına [buradan](https://www.youtube.com/watch?v=l5lI_T2kzkw&list=PLPJKIan46G0kEavyDbU338YvNZORodWFZ) ulaşabilirsiniz.
